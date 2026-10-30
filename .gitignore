@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+*.sqlite3
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Intermediate reproducibility runs
+data/reproducibility_run1/
+data/reproducibility_run2/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
