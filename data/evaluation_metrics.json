@@ -1,0 +1,55 @@
+{
+  "model_metadata": {
+    "algorithm": "GradientBoostingClassifier + RandomForestRegressor",
+    "train_samples": 800,
+    "test_samples": 200,
+    "features_used": [
+      "total_distance_km",
+      "total_legs",
+      "total_weight_kg",
+      "cargo_value_usd",
+      "sla_tolerance_mins",
+      "sla_penalty_rate",
+      "carrier_reliability_avg",
+      "planned_transit_hours",
+      "origin_capacity",
+      "dest_capacity",
+      "is_weekend_dispatch"
+    ]
+  },
+  "classification_metrics": {
+    "accuracy": 0.83,
+    "precision": 0.8788,
+    "recall": 0.9119,
+    "f1_score": 0.8951,
+    "roc_auc": 0.8718,
+    "confusion_matrix": {
+      "true_negative": 21,
+      "false_positive": 20,
+      "false_negative": 14,
+      "true_positive": 145
+    }
+  },
+  "regression_metrics": {
+    "mean_absolute_error_minutes": 685.77,
+    "root_mean_squared_error_minutes": 1162.83,
+    "r2_score": 0.1955
+  },
+  "operational_metrics": {
+    "early_warning_lead_time_hours": 6.4,
+    "target_sla_breach_detection_rate_pct": 91.2
+  },
+  "feature_importances": {
+    "total_distance_km": 0.0998,
+    "total_legs": 0.0343,
+    "total_weight_kg": 0.1023,
+    "cargo_value_usd": 0.1036,
+    "sla_tolerance_mins": 0.1561,
+    "sla_penalty_rate": 0.1173,
+    "carrier_reliability_avg": 0.0645,
+    "planned_transit_hours": 0.2427,
+    "origin_capacity": 0.0332,
+    "dest_capacity": 0.0369,
+    "is_weekend_dispatch": 0.0093
+  }
+}

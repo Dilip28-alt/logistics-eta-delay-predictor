@@ -1,0 +1,34 @@
+[
+  {
+    "service_level_id": "SL-CRIT",
+    "service_level_name": "CRITICAL_FREIGHT",
+    "max_delay_tolerance_mins": 15,
+    "target_on_time_pct": 99.5,
+    "penalty_per_hour_delayed": 500.0,
+    "description": "High-priority critical cargo with 15-minute strict SLA grace window."
+  },
+  {
+    "service_level_id": "SL-EXP",
+    "service_level_name": "EXPRESS",
+    "max_delay_tolerance_mins": 60,
+    "target_on_time_pct": 98.0,
+    "penalty_per_hour_delayed": 250.0,
+    "description": "Expedited commercial freight with 60-minute SLA buffer."
+  },
+  {
+    "service_level_id": "SL-STD",
+    "service_level_name": "STANDARD",
+    "max_delay_tolerance_mins": 180,
+    "target_on_time_pct": 95.0,
+    "penalty_per_hour_delayed": 100.0,
+    "description": "Standard ground and intermodal freight with 3-hour SLA window."
+  },
+  {
+    "service_level_id": "SL-ECO",
+    "service_level_name": "ECONOMY",
+    "max_delay_tolerance_mins": 360,
+    "target_on_time_pct": 90.0,
+    "penalty_per_hour_delayed": 50.0,
+    "description": "Consolidated economy freight with flexible 6-hour delivery tolerance."
+  }
+]

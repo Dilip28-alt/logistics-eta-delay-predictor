@@ -1,0 +1,182 @@
+[
+  {
+    "carrier_id": "CRR-001",
+    "carrier_name": "Carrier-Logistics-01 (ROAD)",
+    "transport_mode": "ROAD",
+    "reliability_score": 0.916,
+    "operating_calendar": "EXTENDED_HOURS",
+    "contact_email": "dispatch.operations1@carrier-network.com",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "carrier_id": "CRR-002",
+    "carrier_name": "Carrier-Logistics-02 (ROAD)",
+    "transport_mode": "ROAD",
+    "reliability_score": 0.837,
+    "operating_calendar": "24x7",
+    "contact_email": "dispatch.operations2@carrier-network.com",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "carrier_id": "CRR-003",
+    "carrier_name": "Carrier-Logistics-03 (ROAD)",
+    "transport_mode": "ROAD",
+    "reliability_score": 0.79,
+    "operating_calendar": "24x7",
+    "contact_email": "dispatch.operations3@carrier-network.com",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "carrier_id": "CRR-004",
+    "carrier_name": "Carrier-Logistics-04 (ROAD)",
+    "transport_mode": "ROAD",
+    "reliability_score": 0.826,
+    "operating_calendar": "24x7",
+    "contact_email": "dispatch.operations4@carrier-network.com",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "carrier_id": "CRR-005",
+    "carrier_name": "Carrier-Logistics-05 (ROAD)",
+    "transport_mode": "ROAD",
+    "reliability_score": 0.923,
+    "operating_calendar": "EXTENDED_HOURS",
+    "contact_email": "dispatch.operations5@carrier-network.com",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "carrier_id": "CRR-006",
+    "carrier_name": "Carrier-Logistics-06 (ROAD)",
+    "transport_mode": "ROAD",
+    "reliability_score": 0.806,
+    "operating_calendar": "24x7",
+    "contact_email": "dispatch.operations6@carrier-network.com",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "carrier_id": "CRR-007",
+    "carrier_name": "Carrier-Logistics-07 (ROAD)",
+    "transport_mode": "ROAD",
+    "reliability_score": 0.819,
+    "operating_calendar": "EXTENDED_HOURS",
+    "contact_email": "dispatch.operations7@carrier-network.com",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "carrier_id": "CRR-008",
+    "carrier_name": "Carrier-Logistics-08 (ROAD)",
+    "transport_mode": "ROAD",
+    "reliability_score": 0.92,
+    "operating_calendar": "EXTENDED_HOURS",
+    "contact_email": "dispatch.operations8@carrier-network.com",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "carrier_id": "CRR-009",
+    "carrier_name": "Carrier-Logistics-09 (ROAD)",
+    "transport_mode": "ROAD",
+    "reliability_score": 0.905,
+    "operating_calendar": "EXTENDED_HOURS",
+    "contact_email": "dispatch.operations9@carrier-network.com",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "carrier_id": "CRR-010",
+    "carrier_name": "Carrier-Logistics-10 (ROAD)",
+    "transport_mode": "ROAD",
+    "reliability_score": 0.819,
+    "operating_calendar": "24x7",
+    "contact_email": "dispatch.operations10@carrier-network.com",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "carrier_id": "CRR-011",
+    "carrier_name": "Carrier-Logistics-11 (ROAD)",
+    "transport_mode": "ROAD",
+    "reliability_score": 0.882,
+    "operating_calendar": "24x7",
+    "contact_email": "dispatch.operations11@carrier-network.com",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "carrier_id": "CRR-012",
+    "carrier_name": "Carrier-Logistics-12 (ROAD)",
+    "transport_mode": "ROAD",
+    "reliability_score": 0.898,
+    "operating_calendar": "24x7",
+    "contact_email": "dispatch.operations12@carrier-network.com",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "carrier_id": "CRR-013",
+    "carrier_name": "Carrier-Logistics-13 (RAIL)",
+    "transport_mode": "RAIL",
+    "reliability_score": 0.898,
+    "operating_calendar": "WEEKDAYS_ONLY",
+    "contact_email": "dispatch.operations13@carrier-network.com",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "carrier_id": "CRR-014",
+    "carrier_name": "Carrier-Logistics-14 (RAIL)",
+    "transport_mode": "RAIL",
+    "reliability_score": 0.808,
+    "operating_calendar": "WEEKDAYS_ONLY",
+    "contact_email": "dispatch.operations14@carrier-network.com",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "carrier_id": "CRR-015",
+    "carrier_name": "Carrier-Logistics-15 (RAIL)",
+    "transport_mode": "RAIL",
+    "reliability_score": 0.875,
+    "operating_calendar": "24x7",
+    "contact_email": "dispatch.operations15@carrier-network.com",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "carrier_id": "CRR-016",
+    "carrier_name": "Carrier-Logistics-16 (RAIL)",
+    "transport_mode": "RAIL",
+    "reliability_score": 0.947,
+    "operating_calendar": "24x7",
+    "contact_email": "dispatch.operations16@carrier-network.com",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "carrier_id": "CRR-017",
+    "carrier_name": "Carrier-Logistics-17 (AIR)",
+    "transport_mode": "AIR",
+    "reliability_score": 0.809,
+    "operating_calendar": "24x7",
+    "contact_email": "dispatch.operations17@carrier-network.com",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "carrier_id": "CRR-018",
+    "carrier_name": "Carrier-Logistics-18 (AIR)",
+    "transport_mode": "AIR",
+    "reliability_score": 0.963,
+    "operating_calendar": "EXTENDED_HOURS",
+    "contact_email": "dispatch.operations18@carrier-network.com",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "carrier_id": "CRR-019",
+    "carrier_name": "Carrier-Logistics-19 (OCEAN)",
+    "transport_mode": "OCEAN",
+    "reliability_score": 0.825,
+    "operating_calendar": "EXTENDED_HOURS",
+    "contact_email": "dispatch.operations19@carrier-network.com",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "carrier_id": "CRR-020",
+    "carrier_name": "Carrier-Logistics-20 (OCEAN)",
+    "transport_mode": "OCEAN",
+    "reliability_score": 0.847,
+    "operating_calendar": "24x7",
+    "contact_email": "dispatch.operations20@carrier-network.com",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

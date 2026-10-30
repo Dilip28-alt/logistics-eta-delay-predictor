@@ -1,0 +1,72 @@
+[
+  {
+    "delay_reason_id": "DLY-WTH-01",
+    "category": "WEATHER",
+    "sub_reason": "BLIZZARD_ROAD_CLOSURE",
+    "severity_tier": "SEVERE",
+    "is_carrier_fault": false
+  },
+  {
+    "delay_reason_id": "DLY-WTH-02",
+    "category": "WEATHER",
+    "sub_reason": "FLOOD_INTERSTATE_DETOUR",
+    "severity_tier": "SEVERE",
+    "is_carrier_fault": false
+  },
+  {
+    "delay_reason_id": "DLY-WTH-03",
+    "category": "WEATHER",
+    "sub_reason": "DENSE_FOG_SPEED_REDUCTION",
+    "severity_tier": "MODERATE",
+    "is_carrier_fault": false
+  },
+  {
+    "delay_reason_id": "DLY-FAC-01",
+    "category": "FACILITY_CONGESTION",
+    "sub_reason": "GATE_QUEUE_BACKLOG",
+    "severity_tier": "MODERATE",
+    "is_carrier_fault": false
+  },
+  {
+    "delay_reason_id": "DLY-FAC-02",
+    "category": "FACILITY_CONGESTION",
+    "sub_reason": "DOCK_BERTH_UNAVAILABLE",
+    "severity_tier": "SEVERE",
+    "is_carrier_fault": false
+  },
+  {
+    "delay_reason_id": "DLY-CRR-01",
+    "category": "CARRIER_MECHANICAL",
+    "sub_reason": "TRACTOR_ENGINE_BREAKDOWN",
+    "severity_tier": "SEVERE",
+    "is_carrier_fault": true
+  },
+  {
+    "delay_reason_id": "DLY-CRR-02",
+    "category": "CARRIER_MECHANICAL",
+    "sub_reason": "DRIVER_HOS_MAX_HOURS_REST",
+    "severity_tier": "MODERATE",
+    "is_carrier_fault": true
+  },
+  {
+    "delay_reason_id": "DLY-RTE-01",
+    "category": "ROUTE_BLOCKAGE",
+    "sub_reason": "HIGHWAY_CONSTRUCTION_LANE_DROP",
+    "severity_tier": "MODERATE",
+    "is_carrier_fault": false
+  },
+  {
+    "delay_reason_id": "DLY-CST-01",
+    "category": "CUSTOMS_INSPECTION",
+    "sub_reason": "BORDER_SECURITY_SECONDARY_HOLD",
+    "severity_tier": "SEVERE",
+    "is_carrier_fault": false
+  },
+  {
+    "delay_reason_id": "DLY-OPS-01",
+    "category": "OPERATIONAL_MISMATCH",
+    "sub_reason": "DISPATCH_TIMING_DESYNC",
+    "severity_tier": "MODERATE",
+    "is_carrier_fault": true
+  }
+]

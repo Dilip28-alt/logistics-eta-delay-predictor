@@ -1,0 +1,21 @@
+carrier_id,carrier_name,transport_mode,reliability_score,operating_calendar,contact_email,created_at
+CRR-001,Carrier-Logistics-01 (ROAD),ROAD,0.916,EXTENDED_HOURS,dispatch.operations1@carrier-network.com,2026-01-01T00:00:00Z
+CRR-002,Carrier-Logistics-02 (ROAD),ROAD,0.837,24x7,dispatch.operations2@carrier-network.com,2026-01-01T00:00:00Z
+CRR-003,Carrier-Logistics-03 (ROAD),ROAD,0.79,24x7,dispatch.operations3@carrier-network.com,2026-01-01T00:00:00Z
+CRR-004,Carrier-Logistics-04 (ROAD),ROAD,0.826,24x7,dispatch.operations4@carrier-network.com,2026-01-01T00:00:00Z
+CRR-005,Carrier-Logistics-05 (ROAD),ROAD,0.923,EXTENDED_HOURS,dispatch.operations5@carrier-network.com,2026-01-01T00:00:00Z
+CRR-006,Carrier-Logistics-06 (ROAD),ROAD,0.806,24x7,dispatch.operations6@carrier-network.com,2026-01-01T00:00:00Z
+CRR-007,Carrier-Logistics-07 (ROAD),ROAD,0.819,EXTENDED_HOURS,dispatch.operations7@carrier-network.com,2026-01-01T00:00:00Z
+CRR-008,Carrier-Logistics-08 (ROAD),ROAD,0.92,EXTENDED_HOURS,dispatch.operations8@carrier-network.com,2026-01-01T00:00:00Z
+CRR-009,Carrier-Logistics-09 (ROAD),ROAD,0.905,EXTENDED_HOURS,dispatch.operations9@carrier-network.com,2026-01-01T00:00:00Z
+CRR-010,Carrier-Logistics-10 (ROAD),ROAD,0.819,24x7,dispatch.operations10@carrier-network.com,2026-01-01T00:00:00Z
+CRR-011,Carrier-Logistics-11 (ROAD),ROAD,0.882,24x7,dispatch.operations11@carrier-network.com,2026-01-01T00:00:00Z
+CRR-012,Carrier-Logistics-12 (ROAD),ROAD,0.898,24x7,dispatch.operations12@carrier-network.com,2026-01-01T00:00:00Z
+CRR-013,Carrier-Logistics-13 (RAIL),RAIL,0.898,WEEKDAYS_ONLY,dispatch.operations13@carrier-network.com,2026-01-01T00:00:00Z
+CRR-014,Carrier-Logistics-14 (RAIL),RAIL,0.808,WEEKDAYS_ONLY,dispatch.operations14@carrier-network.com,2026-01-01T00:00:00Z
+CRR-015,Carrier-Logistics-15 (RAIL),RAIL,0.875,24x7,dispatch.operations15@carrier-network.com,2026-01-01T00:00:00Z
+CRR-016,Carrier-Logistics-16 (RAIL),RAIL,0.947,24x7,dispatch.operations16@carrier-network.com,2026-01-01T00:00:00Z
+CRR-017,Carrier-Logistics-17 (AIR),AIR,0.809,24x7,dispatch.operations17@carrier-network.com,2026-01-01T00:00:00Z
+CRR-018,Carrier-Logistics-18 (AIR),AIR,0.963,EXTENDED_HOURS,dispatch.operations18@carrier-network.com,2026-01-01T00:00:00Z
+CRR-019,Carrier-Logistics-19 (OCEAN),OCEAN,0.825,EXTENDED_HOURS,dispatch.operations19@carrier-network.com,2026-01-01T00:00:00Z
+CRR-020,Carrier-Logistics-20 (OCEAN),OCEAN,0.847,24x7,dispatch.operations20@carrier-network.com,2026-01-01T00:00:00Z

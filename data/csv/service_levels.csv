@@ -1,0 +1,5 @@
+service_level_id,service_level_name,max_delay_tolerance_mins,target_on_time_pct,penalty_per_hour_delayed,description
+SL-CRIT,CRITICAL_FREIGHT,15,99.5,500.0,High-priority critical cargo with 15-minute strict SLA grace window.
+SL-EXP,EXPRESS,60,98.0,250.0,Expedited commercial freight with 60-minute SLA buffer.
+SL-STD,STANDARD,180,95.0,100.0,Standard ground and intermodal freight with 3-hour SLA window.
+SL-ECO,ECONOMY,360,90.0,50.0,Consolidated economy freight with flexible 6-hour delivery tolerance.

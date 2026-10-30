@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "total_checks": 22,
+  "checks_passed": 22,
+  "checks_failed": 0,
+  "error_count": 0,
+  "warning_count": 0,
+  "errors": [],
+  "warnings": [],
+  "anomaly_audit_summary": {
+    "ingestion_time_confusion": {
+      "injected_ground_truth": 15,
+      "auditor_detected": 15,
+      "match": true
+    },
+    "impossible_route_order": {
+      "injected_ground_truth": 7,
+      "auditor_detected": 7,
+      "match": true
+    },
+    "eta_future_data_leakage": {
+      "injected_ground_truth": 10,
+      "auditor_detected": 10,
+      "match": true
+    },
+    "delivered_still_in_transit": {
+      "injected_ground_truth": 15,
+      "auditor_detected": 15,
+      "match": true
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "system": "Logistics ETA Estimation & Delay Risk Platform",
+  "generated_at": "2026-10-30T08:29:36.525606+00:00",
+  "seed": 20261022,
+  "row_counts": {
+    "carriers": 20,
+    "facilities": 100,
+    "routes": 2037,
+    "service_levels": 4,
+    "delay_reasons": 10,
+    "weather_events": 500,
+    "facility_queues": 500,
+    "shipments": 1000,
+    "shipment_legs": 1753,
+    "tracking_events": 9259,
+    "eta_estimates": 1000,
+    "ground_truth": 1000
+  },
+  "files": {
+    "ground_truth.csv": {
+      "size_bytes": 145684,
+      "sha256": "e101662acbef2703eb9b1b53e3d1a71045ff32e364399fc149ab57cd8993c4a5"
+    },
+    "ground_truth.json": {
+      "size_bytes": 404941,
+      "sha256": "a50eb710e2253abaeb0f6fd28b1a40d7940fa7a7e86395ed332d407f316c36bf"
+    },
+    "logistics.db": {
+      "size_bytes": 3997696,
+      "sha256": "8ed04d68268200eaf8a4c6207f837b0e6e5aea54ab734832659460c58485fdef"
+    },
+    "seed.sql": {
+      "size_bytes": 6842,
+      "sha256": "018ebae2d09d3d7f7152b1ef3902f3846753b62c03101ac902b399121eabf92a"
+    },
+    "csv/carriers.csv": {
+      "size_bytes": 2499,
+      "sha256": "66205b96e9cec9d90e777319f7e1dff8a373637461ad963a68d6b138f185a590"
+    },
+    "csv/delay_reasons.csv": {
+      "size_bytes": 732,
+      "sha256": "1cfefe92067961c2292632ee042d9bce266bb0bbe8cfea167cccbc433ff166b2"
+    },
+    "csv/eta_estimates.csv": {
+      "size_bytes": 315750,
+      "sha256": "ef9c260c2225fd1981740f1801430103db25b71951b81956cbe02aca4deb3cc7"
+    },
+    "csv/facilities.csv": {
+      "size_bytes": 11020,
+      "sha256": "165938b3ea454e5cd7e2e170373491863541c8a49ff24a855f4a18dfce6188dd"
+    },
+    "csv/facility_queues.csv": {
+      "size_bytes": 43704,
+      "sha256": "8fe5abe8b4bcd53d982f9f2f11e07050a4b0236b360fda0eee10dfeb9c3ec6f3"
+    },
+    "csv/ground_truth.csv": {
+      "size_bytes": 145684,
+      "sha256": "e101662acbef2703eb9b1b53e3d1a71045ff32e364399fc149ab57cd8993c4a5"
+    },
+    "csv/routes.csv": {
+      "size_bytes": 159782,
+      "sha256": "50650d57637345edae43823fb815e5ef6e0f0b2316cb2032d61571c31c455556"
+    },
+    "csv/service_levels.csv": {
+      "size_bytes": 508,
+      "sha256": "42df0b02312851bbebf864f0e13739a684e7477fc2fd873a219dc3e3e60c50ad"
+    },
+    "csv/shipments.csv": {
+      "size_bytes": 192385,
+      "sha256": "9a1dee1df500dab4466f9eab46ccb4d5b17fe8f2b0423ee47625ec5b9bff8fdf"
+    },
+    "csv/shipment_legs.csv": {
+      "size_bytes": 308344,
+      "sha256": "b83aa8e139c3781464694aa7bd009d43d91c9ea058f0445f925d92c1886dfe7a"
+    },
+    "csv/tracking_events.csv": {
+      "size_bytes": 1593056,
+      "sha256": "1a0cefa511e8b1b8235ee1eb6474d2755c102551279baebf2ad13338b90a4fd4"
+    },
+    "csv/weather_events.csv": {
+      "size_bytes": 57802,
+      "sha256": "725cb516d7fd95dd3f2416f32671726a0d4b19ad6231dc282c007851bd5a9336"
+    },
+    "json/carriers.json": {
+      "size_bytes": 6100,
+      "sha256": "f4e3c89ef38a7a0254e347f93f44b015fbfac2fc8b21d6250dc4feb60902a335"
+    },
+    "json/delay_reasons.json": {
+      "size_bytes": 1957,
+      "sha256": "bfe918a41963d1251bbe5782f8cb7935aed30a4daab00a1bf16facee996ff903"
+    },
+    "json/eta_estimates.json": {
+      "size_bytes": 728902,
+      "sha256": "81c8bcd0a44b8bea15716a36a363d855008071200d0cb0cb84bc3d14c54fb096"
+    },
+    "json/facilities.json": {
+      "size_bytes": 35883,
+      "sha256": "634a876347501020afb53484464c6804e750866270aa6a1cc3e9c0ed1724126b"
+    },
+    "json/facility_queues.json": {
+      "size_bytes": 161568,
+      "sha256": "220535739a7ea382846ed6d3eb77c5c0d1683ce582ecb827f61087356a904770"
+    },
+    "json/ground_truth.json": {
+      "size_bytes": 404941,
+      "sha256": "a50eb710e2253abaeb0f6fd28b1a40d7940fa7a7e86395ed332d407f316c36bf"
+    },
+    "json/routes.json": {
+      "size_bytes": 662778,
+      "sha256": "78584727e1a883b0523af7138cbcd22018958b894f0ee60f4101d9b491d9334f"
+    },
+    "json/service_levels.json": {
+      "size_bytes": 1137,
+      "sha256": "8dfea3affc3f5f8349c982876bdc350b40ace9e3056a8bf5d63928ee14f1dcb8"
+    },
+    "json/shipments.json": {
+      "size_bytes": 643521,
+      "sha256": "1eaae63cda9e153a8ded0b49b74de466071d1a88e8160b098232101d55c33f97"
+    },
+    "json/shipment_legs.json": {
+      "size_bytes": 918190,
+      "sha256": "a70c0204c6c7ca1099df80783eeb496c5c443e3081e2fe8e2845415ac3637f4d"
+    },
+    "json/tracking_events.json": {
+      "size_bytes": 4133391,
+      "sha256": "32de36c6c5b0b6b39a159bab573062859bc22a38a681cdcdab1cfe97d80d6e27"
+    },
+    "json/weather_events.json": {
+      "size_bytes": 164701,
+      "sha256": "571929aa8094ab9643862bf92c0e3dd1b2692f9a83d17015cc5850f8a5a52a96"
+    }
+  }
+}
